@@ -1,0 +1,16 @@
+InputImageFolder=/home/tayfun/DATA/HDR/virtual_camera/srgb
+ChannelType=Blue
+ShowInputImages=false
+ShowAvoidedPixelLocations=true
+ShowSelectedPixelLocations=true
+SpatialPixelCoverageConst=2
+GeneratePixelLocations=true
+WritePixelLocations=true
+OutputPixelLocationsPath=/home/tayfun/workspace/DebevecHDRRadianceMapsImpl/PixelLocations.txt
+InputPixelLocationsPath=/home/tayfun/workspace/DebevecHDRRadianceMapsImpl/PixelLocations.txt 
+SmoothnessTermLambda=20
+CameraResponseFunctionValues=/home/tayfun/workspace/DebevecHDRRadianceMapsImpl/crf.txt
+SampleLogarithmicRadiances=/home/tayfun/workspace/DebevecHDRRadianceMapsImpl/radiances.txt
+
+
+
