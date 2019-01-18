@@ -1,0 +1,6 @@
+HDRIInputPath=/home/tayfun/workspace/FattalToneMapper/CadesCove.hdr
+LDRIIOutputPath=/home/tayfun/workspace/FattalToneMapper/CadesCove.png
+GradMagnitudeAlphaScale=0.10
+beta=0.83
+ColorSaturationConst=0.2
+
